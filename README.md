@@ -1,4 +1,4 @@
-# ortfolio Webpage
+# Portfolio Webpage
 Welcome to my portfolio webpage.
 
 ## Overview
